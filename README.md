@@ -103,7 +103,7 @@ print(prediction)  # Output: Positive
 ---
 
 ## 📑 Additional Notes  
-- If you face path issues in Colab, double-check the folder path in Drive.  
+- If you face path issues in Colab, double-check the folder path in Drive:https://drive.google.com/drive/folders/1kimZDM_qAoPNEHw7s3ya0BL78uknT_iz?usp=sharing  
 - You can extend this project by:  
   - Adding more preprocessing (stopword removal, stemming, lemmatization)  
   - Using a larger dataset  
